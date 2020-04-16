@@ -1,13 +1,8 @@
 package DiGraph;
 
-import java.awt.List;
-import java.util.HashMap;
-import java.util.Iterator;
+import java.util.HashMap; 
 import java.util.LinkedList;
 import java.util.PriorityQueue;
-import java.util.Set;
-
-import javax.print.DocFlavor.STRING;
 
 public class DiGraph implements DiGraphInterface {
 
